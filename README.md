@@ -1,4 +1,4 @@
-# Cálculo gasto calorio completo!
+# Cálculo gasto calórico completo!
 Um sistema _básico_ com uma **lógica incrível** 
 
  **Onde os usuários insira seus dados, e obtem uma resposta imediata do que buscam!** 
